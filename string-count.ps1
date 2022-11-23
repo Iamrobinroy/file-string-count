@@ -1,4 +1,4 @@
-﻿# Output the length of all files and folders in the given directory path.
+
 [CmdletBinding()]
 param
 (
